@@ -1,9 +1,32 @@
 aid: imperative-care
 name: Imperative Care
-description: 'Imperative Care is a company surfaced as a portfolio company of d1-capital and added to
-  the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Imperative Care is a U.S. medical technology company founded in 2015 by Fred
+  Khosravi, neurosurgeon L. Nelson Hopkins, M.D., and Amar Sawhney, Ph.D., that
+  develops connected interventional devices to elevate care for people affected
+  by devastating vascular diseases such as ischemic stroke, venous
+  thromboembolism, and acute limb ischemia. Its portfolio spans the Zoom Stroke
+  System (including Zoom intracranial access and aspiration catheters and
+  Continuous Dual Aspiration / CDAT technology) for fast, effective clot removal,
+  the Symphony Thrombectomy System for venous thromboembolism, and the Prodigy
+  Thrombectomy System for acute limb ischemia, with the Telos robotic-assisted
+  platform in development in partnership with Proximie. The company was surfaced
+  as a portfolio company of D1 Capital and added to the API Evangelist network.
+  Imperative Care publishes no public developer API, SDK, or technical developer
+  portal; this profile captures its public web, security, and corporate surface.
 url: https://raw.githubusercontent.com/api-evangelist/imperative-care/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://imperativecare.com/wp-content/uploads/2025/11/imperative-care-favicon-v2-300x300.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Healthcare
+- Medical Devices
+- Neurovascular
+- Stroke
+- Thrombectomy
+- Vascular
+- MedTech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,18 @@ maintainers:
 common:
 - type: Website
   url: https://www.imperativecare.com
+- type: Support
+  url: https://imperativecare.com/contact/
+- type: Blog
+  url: https://imperativecare.com/news/
+- type: PrivacyPolicy
+  url: https://imperativecare.com/privacy-policy/
+- type: TermsOfService
+  url: https://imperativecare.com/terms-of-use/
+- type: DomainSecurity
+  url: security/imperative-care-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
