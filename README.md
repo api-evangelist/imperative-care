@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Imperative Care is a company surfaced as a portfolio company of d1-capital and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment pipeline.
+Imperative Care is a U.S. medical technology company founded in 2015 by Fred Khosravi, neurosurgeon L. Nelson Hopkins, M.D., and Amar Sawhney, Ph.D., that develops connected interventional devices to elevate care for people affected by devastating vascular diseases such as ischemic stroke, venous thromboembolism, and acute limb ischemia. Its portfolio spans the Zoom Stroke System (including Zoom intracranial access and aspiration catheters and Continuous Dual Aspiration / CDAT technology) for fast, effective clot removal, the Symphony Thrombectomy System for venous thromboembolism, and the Prodigy Thrombectomy System for acute limb ischemia, with the Telos robotic-assisted platform in development in partnership with Proximie. The company was surfaced as a portfolio company of D1 Capital and added to the API Evangelist network. Imperative Care publishes no public developer API, SDK, or technical developer portal; this profile captures its public web, security, and corporate surface.
 
-Backed by: d1-capital — https://www.imperativecare.com
+**Areas:** Company · Healthcare · Medical Devices · Neurovascular · Stroke · Thrombectomy · Vascular · Medical Technology
+
+## Imperative Care on APIs.io
+
+Everything profiled for Imperative Care is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/imperative-care/](https://apis.io/providers/imperative-care/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Imperative Care Domain Security](https://apis.io/security/imperative-care/imperative-care-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.imperativecare.com)
+- [Support](https://imperativecare.com/contact/)
+- [Blog](https://imperativecare.com/news/)
+- [Terms of service](https://imperativecare.com/terms-of-use/)
+- [Privacy policy](https://imperativecare.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/imperative-care/](https://apis.io/providers/imperative-care/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Imperative Care: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/imperative-care/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
